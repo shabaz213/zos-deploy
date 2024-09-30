@@ -1,0 +1,3 @@
+[submodule "plugin-doc-site-conf"]
+	path = plugin-doc-site-conf
+	url = git@github.com:shabaz213/plugin-doc-site-conf.git
