@@ -1,0 +1,10 @@
+name: Deploy documentation site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    uses: shabaz213/workflow-templates/blob/main/.github/workflows/mkdocs-doc-site-release.yml@main
