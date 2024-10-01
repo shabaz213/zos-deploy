@@ -7,4 +7,4 @@ on:
 
 jobs:
   deploy:
-    uses: shabaz213/workflow-templates/blob/main/.github/workflows/mkdocs-doc-site-release.yml@main
+    uses: shabaz213/workflow-templates/.github/workflows/mkdocs-doc-site-release.yml@main
