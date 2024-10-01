@@ -1,2 +1,2 @@
 # zos-deploy
-This repository contains documentation and binaries of z/OS Utility plugin.
+This repository contains documentation and stores binaries of z/OS Utility plugin.
